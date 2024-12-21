@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/46669a514f9bfe4328f92b9d15efdc2200222c341f23aab20feb0c734401d49e/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313130302f312a2d6e744c33447376632d644a35634c475274537545772e676966)](https://nebojsamihajilovic-portfolio.netlify.app/)
 <h1 align="center">Hi 👋, I'm Nebojsa Mihajilovic</h1>
-<h3 align="center">A passionate web developer from Serbia <img src="https://images.emojiterra.com/twitter/v13.1/512px/1f1f7-1f1f8.png" alt="Serbia Flag" width="30"></h3>
+<h3 align="center">A passionate web developer from Serbia <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/320px-Flag_of_Serbia.svg.png" alt="Serbia Flag" width="30"></h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/15857bd385b12298e036391e6b9644e481eb0903f46311126cb5f571df2b3686/68747470733a2f2f77686f736172676879612e6e65746c6966792e6170702f636f6e74656e742f67697068792e676966">
 
 
